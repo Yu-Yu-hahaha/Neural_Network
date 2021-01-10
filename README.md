@@ -1,4 +1,4 @@
-# Neural_Network
+# Neural_Network-Deep_Learning
 
 This project contains my work during learning neural network & deep learning
 
